@@ -21,7 +21,7 @@ if (!in_array($section, $allowed_sections)) {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>QuickPOS - Modern POS System for Your Business</title>
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="../css/style.css">
 </head>
 <body>
     <!-- EPIC 1: HEADER SECTION -->
@@ -220,6 +220,6 @@ if (!in_array($section, $allowed_sections)) {
     </footer>
 
     <!-- JavaScript -->
-    <script src="js/script.js"></script>
+    <script src="../js/script.js"></script>
 </body>
 </html>
